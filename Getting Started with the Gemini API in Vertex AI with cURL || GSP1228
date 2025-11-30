@@ -1,0 +1,10 @@
+rm intro_gemini_curl-v2.0.0.ipynb
+curl -LO raw.githubusercontent.com/prateekrajput08/Arcade-Google-Cloud-Labs/refs/heads/main/Getting%20Started%20with%20the%20Gemini%20API%20in%20Vertex%20AI%20with%20cURL/intro_gemini_curl-v2.0.0.ipynb
+
+
+
+// copy paste in terminal
+//⚠️ Disclaimer ⚠️
+Educational Purpose Only: This script and guide are provided for the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services.
+
+Terms Compliance: Always ensure compliance with Qwiklabs' terms of service and YouTube's community guidelines. The aim is to enhance your learning experience — not to circumvent it.
